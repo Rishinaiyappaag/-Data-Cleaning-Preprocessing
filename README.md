@@ -1,10 +1,10 @@
 # -Data-Cleaning-Preprocessing
 🧹 Task 1: Data Cleaning & Preprocessing — Titanic Dataset
-🎯 Objective
+# 🎯 Objective
 
 Learn how to clean and prepare raw data for Machine Learning by handling missing values, encoding categorical variables, normalizing features, and detecting/removing outliers.
 
-🧰 Tools & Libraries
+# 🧰 Tools & Libraries
 
 Python 3.x
 
@@ -16,14 +16,14 @@ Matplotlib / Seaborn – Data visualization
 
 scikit-learn – Feature scaling (StandardScaler)
 
-📂 Dataset
+# 📂 Dataset
 
 Name: Titanic-Dataset.csv
 You can download it from: Titanic Dataset
 
 or use the provided file.
 
-⚙️ Steps in the Code
+# ⚙️ Steps in the Code
 1️⃣ Import Libraries
 
 Imports required Python libraries (pandas, numpy, seaborn, matplotlib).
@@ -95,7 +95,7 @@ Exports the cleaned dataset:
 
 df_cleaned.to_csv("Titanic_Cleaned.csv", index=False)
 
-📊 Outputs
+# 📊 Outputs
 
 Titanic_Cleaned.csv – The final cleaned and preprocessed dataset.
 
@@ -103,7 +103,7 @@ Boxplots before and after outlier removal.
 
 Console output showing dataset info and cleaning progress.
 
-🧠 Key Learnings
+# 🧠 Key Learnings
 
 Handling missing values using imputation (mean, median, mode).
 
@@ -115,7 +115,7 @@ Detecting and removing outliers to improve data quality.
 
 Understanding data preprocessing workflow before modeling.
 
-▶️ How to Run
+# ▶️ How to Run
 
 Install required libraries:
 
