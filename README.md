@@ -20,6 +20,7 @@ scikit-learn – Feature scaling (StandardScaler)
 
 Name: Titanic-Dataset.csv
 You can download it from: Titanic Dataset
+or use the provided file.
 
 or use the provided file.
 
